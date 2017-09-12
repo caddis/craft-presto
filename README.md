@@ -1,3 +1,5 @@
+# NOTICE: This plugin has been deprecated and is no longer in active development. Please download the [latest version](https://github.com/lewiscommunications/craft-presto) managed by [Lewis Communications](https://github.com/lewiscommunications).
+
 ![Presto](https://www.caddis.co/internal/repo/presto.svg)
 
 Presto is a static file extension for the native [Craft cache](https://craftcms.com/docs/templating/cache). It works alongside standard Twig `{% cache %}` tag pairs and includes cache-busting features. Just like standard caching, Presto is automatic. Simply install, update your layouts, and then the cache will bust automatically as you create, update, or delete content.
