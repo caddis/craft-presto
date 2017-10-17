@@ -4,7 +4,7 @@ namespace Craft;
 class PrestoPlugin extends BasePlugin
 {
 	private $name = 'Presto';
-	private $version = '0.6.1';
+	private $version = '0.6.2';
 	private $description = 'Static file extension for the native Craft cache.';
 	private $caches;
 
@@ -45,7 +45,7 @@ class PrestoPlugin extends BasePlugin
 
 	public function getReleaseFeedUrl()
 	{
-		return 'https://raw.githubusercontent.com/caddis/craft-presto/master/releases.json';
+		return 'https://raw.githubusercontent.com/lewiscommunications/craft-presto/master/releases.json';
 	}
 
 	protected function defineSettings()

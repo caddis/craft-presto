@@ -22,5 +22,13 @@
 		"notes": [
 			"[Improved] Moved cache clearing to plugin settings page."
 		]
+	},
+	{
+		"version": "0.6.2",
+		"downloadUrl": "https://github.com/lewiscommunications/craft-presto/archive/0.6.2.zip",
+		"date": "2017-10-17T16:42:12+00:00",
+		"notes": [
+			"[Added] Migrated releases url to new plugin location."
+		]
 	}
 ]
